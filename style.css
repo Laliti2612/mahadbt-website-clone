@@ -1,0 +1,881 @@
+#box1{
+    background-color: white;
+    height: 30px;
+    border: 0.5px solid black;
+}
+#box2{
+    background-color: white;
+    height: 30px;
+    width: 69px;
+    position: relative;
+    left: 1450px;
+    bottom: 31.5px;
+    border: 1px solid black;
+}
+#box3{
+    background-color:rgb(204, 113, 80);
+    height: 30.5px;
+    width: 150px;
+    position: relative;
+    left: 1185px;
+    bottom: 62.5px;
+}
+#box4{
+    background-color:white;
+    color: white;
+    height: 30px;
+    width: 300px;
+    position: relative;
+    left: 210px;
+    bottom: 93.5px;
+    border: 0.5px solid black;
+}
+#box5{
+    background-color:white;
+    color: white;
+    height: 25px;
+    width: 205px;
+    position: relative;
+    left: 2px;
+    bottom: 121px; 
+}
+#box8{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+    bottom:185px;
+    animation-name: textAnimate;
+    animation-duration: 5s;
+    animation-delay: 0;
+    animation-timing-function:ease-in;
+    animation-iteration-count:infinite;
+    animation-direction: normal;
+}
+#box13{
+    background-color: #204898;
+    height: 65px;
+    width: 280px;
+    position: relative;
+    bottom: 882px;
+    left: 1223px;
+}
+#box10{
+    background-color: #204898;
+    height: 65px;
+    width: 270px;
+    position: relative;
+    bottom: 250px;
+    left: 300px;
+}
+#box11{
+    height: 65px;
+    width: 110px;
+    background-color: #204898;
+    position: relative;
+    bottom: 334px;
+    left: 160px;
+    border-right: 1px solid white;
+}
+#box12{
+    background-color: #CC7150;
+    height: 65px;
+    width: 160px;
+    position: relative;
+    bottom: 417px;
+}
+#box14{
+    height: 20px;
+    background-color: white;
+    position: relative;
+    bottom: 868px;    
+}
+#box17{
+    
+    height: 20px;
+    width: 1000px;
+    border: 3px solid red;
+    position: relative;
+    bottom: 945px;
+    left: 240px;
+}
+#box15{
+    height: 20px;
+    width: 248px;
+    background-color: white;
+    position: relative;
+    bottom: 905px;
+}
+#box16{
+    height: 20px;
+    width: 700px;
+    background-color: white;
+    position: relative;
+    bottom: 925px;
+    left: 1243px;
+    
+}
+#div1{
+    height: 65px;
+    width: 125px;
+    background-color: #204898;
+    
+}
+#div2{
+    height: 65px;
+    width: 125px;
+    background-color: #204898;
+    
+}
+#div3{
+    height: 65px;
+    width: 125px;
+    background-color: #204898;
+    
+}
+#div4{
+    height: 65px;
+    width: 125px;
+    background-color: #204898;
+    
+}
+#div5{
+    height: 65px;
+    width: 125px;
+    background-color: #204898;
+  
+}
+#div6{
+    height: 65px;
+    width: 125px;
+    background-color: #204898;
+    
+}
+#box6{
+    background-color:white;
+    height: 80px;
+    position: relative;
+    bottom: 118px;
+}
+#box7{
+    height: 65px;
+    background-color: #204898;
+     
+    position: relative;
+    bottom: 120px;
+}
+#img1{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 3px;
+    top:3px;
+}
+#img2{
+    height:20px;
+    width:20px;
+    position: relative;
+    left:4px;
+    top:4px;
+}
+#img3{
+    height:20px;
+    width:20px;
+    position: relative;
+    left:5px;
+    top:3px;
+}
+#img4{
+    height: 90px;
+    width: 300px;
+    
+}
+#img5{
+    height: 85px;
+    width: 120px;
+    position: relative;
+    bottom: 85px;
+}
+#img6{
+    height: 35px;
+    width: 35px;
+    position: relative;
+    left:3px;
+    top:10px;
+}  
+#img7{
+    height: 35px;
+    width: 35px;
+    position: relative;
+    left:3px;
+    top:10px;
+}  
+#img8{
+    height: 35px;
+    width: 35px;
+    position: relative;
+    left:3px;
+    top:10px;
+}  
+#img9{
+    height: 35px;
+    width: 35px;
+    position: relative;
+    left:3px;
+    top:10px;
+}  
+#img10{
+    height: 35px;
+    width: 35px;
+    position: relative;
+    left:3px;
+    top:10px;
+}  
+#img11{
+    height: 35px;
+    width: 35px;
+    position: relative;
+    left:3px;
+    top:10px;
+}  
+#img12{
+    height:65px;
+    width: 80px;
+    position: relative;
+    bottom: 21px;
+    right: 30px;
+}
+#img13{
+    height: 50px;
+    width: 180px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+#post
+{
+    text-align: center;
+    color: white;
+    position: relative;
+    bottom:20px;
+    left:13px;
+}
+#skip{
+    color:black;
+    position: relative;
+    bottom:18px;
+    right:60px;
+}
+#main{
+    color:black;
+    position: relative;
+    bottom:22px;
+    right:3px;
+}
+#lang{
+    position: relative;
+    left: 20px;
+}
+#btn1{
+    background-color: black;
+    height: 25px;
+    color: white;
+    position: relative;
+    left: 1415px;
+}
+#btn2{
+    background-color: black;
+    height: 25px;
+    color: white;
+    position: relative;
+    left: 1345px;
+}
+#btn3{
+    background-color: black;
+    height: 25px;
+    color: white;
+    position: relative;
+    left: 1275px;
+}
+#btn5{
+    position: relative;
+    left: 65px;
+    top: 21px;
+    border-radius: 25px;
+    background-color: #204898;
+    color: white;
+    border: 1px solid white;
+}
+#text1{
+    position: relative;
+    bottom: 52px;
+    left:20px;
+    color: white;
+}
+#text2{
+    position: relative;
+    bottom: 52px;
+    left:20px;
+    color: white;
+}
+#text3{
+    position: relative;
+    bottom: 52px;
+    left:20px;
+    color: white;
+}
+#text4{
+    position: relative;
+    bottom: 52px;
+    left:20px;
+    color: white;
+}
+#text5{
+    position: relative;
+    bottom: 52px;
+    left:20px;
+    color: white;
+}
+#text6{
+    position: relative;
+    bottom: 52px;
+    left:20px;
+    color: white;
+}
+#text7{
+    color: white;
+    position: relative;
+    top: 8px;
+}
+@keyframes textAnimate{
+    from{left: 90px;
+    }to{
+        left: 200px;
+    }
+}
+#btn4{
+    position: relative;
+    top: 20px;
+    left: 10px;
+    border-radius: 25px;
+    background-color: #204898;
+    color: white;   
+    border: 1px solid white;
+}
+#btn6{
+    background-color: #204898;
+    color: white;
+    border: 1px solid white;
+    border-radius: 25px;
+    position: relative;
+    top:20px;
+    left:20px;
+}
+#text8{
+    color: white;
+    position: relative;
+    top: 8px;
+}
+#font1{
+    font-size: 126px;
+    
+    position: relative;
+    bottom: 657px;
+    color: white;
+    left: 257px;
+}
+
+@keyframes para{
+    0%{
+      width:300px;
+    }
+    70%{
+       width:1000px;
+    }
+}
+#para1{
+    font-family: 'Times New Roman', Times, serif;
+    marker: 20px;
+    color: red;
+    position: relative;
+    bottom: 17px;
+    animation-name: para;
+    animation-duration: 5s;
+    animation-delay: 0;
+    animation-timing-function:ease-in;
+    animation-iteration-count:infinite;
+    animation-direction: normal;    
+}
+#box18{
+    background-color: rgb(247, 242, 233);
+    border: 2px solid wheat;
+    height: 190px;
+    width: 200px;
+    position: relative;
+    bottom: 930px;
+    left: 6px;
+}
+#box19{
+    background-color: red;
+    height: 150px;
+    width: 200px;
+    position: relative;
+    left: 6px;
+    bottom: 1030px;
+}
+#box20{
+    background-color: #204898;
+    height: 150px;
+    width: 200px;
+    position: relative;
+    top: 150px;
+}
+#guidlines{
+    font-family: 'Times New Roman', Times, serif;
+    color: #204898;
+    position: relative;
+    bottom: 1065px;
+    left: 22px;
+}
+#undis{
+    color: white;
+    position: relative;
+    bottom: 1170px;
+    left: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#courses{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    position:relative;
+    left: 16px;
+    bottom: 1115px;
+}
+#box21{
+    
+    color: #cf5d34;
+    height: 30px;
+    width: 150px;
+    position: relative;
+    left: 220px;
+    bottom: 1615px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#horizontal{
+
+    width: 1003px;
+    position: relative;
+    bottom: 1615px;
+    right: 5px;
+    border: 2px solid  aqua;
+}
+#box22{
+    position: relative;
+    bottom: 1625px;
+    left: 240px;
+    color: #204898;
+}
+#box23{
+    background-color: white;
+    height: 75px;
+    width: 400px;
+    position: relative;
+    bottom: 1595px;
+    left: 240px;
+}
+#input1{
+    position: relative;
+    bottom: 1630px;
+    left:240px ;
+    height: 20px;
+    width: 1003px;
+}
+#input2{
+    position: relative;
+    bottom: 1615px;
+    left:240px ;
+    height: 20px;
+    width: 1003px;
+}
+#img14{
+    height: 22px;
+    width: 22x;
+    position: relative;
+    right: 993px;
+    bottom: 1498px;
+}
+#img15{
+    height: 22px;
+    width: 22x;
+    position: relative;
+    right: 1030px;
+    bottom: 1345px;
+}
+#img16{
+    height: 75px;
+    width: 180px;
+}
+#refresh{
+    color: blue;
+    position: relative;
+    bottom: 90px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#shown{
+    position: relative;
+    bottom: 103px;
+     font-family: 'Times New Roman', Times, serif;
+}
+#login{
+    background-color: green;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: 230px;
+    bottom: 1400px;
+}
+#input3{
+    position: relative;
+    left: 240px;
+    bottom: 1595px;
+    height: 20px;
+    width: 1003px;
+}
+#login{
+    background-color: rgb(98, 210, 98);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 1575px;
+    left: 238px;
+    height: 30px;
+    border: 1px solid green;
+}
+#forgot{
+    background-color: #204898;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 1575px;
+    left: 238px;
+    height: 30px;
+    border: 1px solid  black
+}
+#forgot2{
+    background-color: red;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 1575px;
+    left: 238px;
+    height: 30px;
+    border: 1px solid  #204898;
+}
+#box25{
+    height: 60px;
+    width: 210px;
+    
+    position: relative;
+    left: 1280px;
+    bottom: 1900px;
+    border: 1px solid black;
+}
+#box26{
+    
+    height: 40px;
+    width: 210px;
+    position: relative;
+    left: 1280px;
+    bottom: 1893px;
+    border: 1px solid black;
+
+}
+#box27{
+    
+    height: 60px;
+    width: 210px;
+    position: relative;
+    left: 1280px;
+    bottom: 1886px;
+    border: 1px solid black;
+
+}
+#box28{
+   
+    height: 60px;
+    width: 210px;
+    position: relative;
+    left: 1280px;
+    bottom: 1880px;
+    border: 1px solid black;
+
+}
+#box29{
+    
+    height: 60px;
+    width: 210px;
+    position: relative;
+    left: 1280px;
+    bottom: 1873px;
+    border: 1px solid black;
+
+}
+#box30{
+    height: 330px;
+    width: 1010px;
+    position:relative;
+    left:240px;
+    bottom:1840px;
+    border: 1px solid black;
+}
+#box31{ 
+    font-family: 'Times New R  oman', Times, serif;
+    height: 35px;
+    width: 210px;
+    position: relative;
+    left: 1280px;
+    bottom: 2197px;
+    border: 1px solid black;   
+}
+#box32{ 
+    
+    height: 35px;
+    width: 35px;
+    border-right: 1px solid black;   
+    position: relative;
+    bottom: 48px; 
+}
+#box33{
+   border: 1px solid black;
+    position: relative;
+    height: 340px;
+    width: 210px;
+    position:relative;
+    bottom:2198px;
+    left:1280px;
+    
+}
+#new{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom:7px;
+}
+#applicant{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 7px;
+}
+#find{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 7px;
+}
+#institute{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 7px;
+}
+#grievance{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 7px;
+}
+#instr{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: #031230;
+}
+#img17{
+    height: 17px;
+    width: 17px;
+    position: relative;
+    left: 20px;
+    bottom: 6px;   
+}
+#img18{
+    height: 17px;
+    width: 17px;
+    position: relative;
+    left: 20px;
+    bottom: 45px;   
+}
+#img19{
+    height: 17px;
+    width: 17px;
+    position: relative;
+    left: 20px;
+    bottom: 86px;   
+}
+#img20{
+    height: 17px;
+    width: 17px;
+    position: relative;
+    left: 20px;
+    bottom: 127px;   
+}
+#img21{
+    height: 17px;
+    width: 17px;
+    position: relative;
+    left: 20px;
+    bottom: 170px;   
+}
+#img22{
+    height: 17px;
+    width: 17px;
+    position: relative;
+    left: 20px;
+    bottom: 210px;   
+}
+#img23{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 12px;
+    bottom: 3px;
+}
+#img24{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 12px;
+    bottom: 3px;
+}
+#img25{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 12px;
+    bottom: 3px;
+}
+#img26{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 12px;
+    bottom: 3px;
+}
+#img27{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 12px;
+    bottom: 3px;
+}
+
+#img28{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 12px;
+    top: 7px;
+    right: 30px;
+    text-align: center;
+}
+#img11{
+    height: 20px;
+    width: 20px;
+    position:relative;
+    left:7px;
+    bottom: 5px;
+}
+
+
+
+#instr1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    position: relative;
+    left: 35px;
+    bottom: 45px;
+}
+#instr2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    position: relative;
+    left: 35px;
+    bottom: 85px;
+}
+#instr3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    position: relative;
+    left: 35px;
+    bottom: 126px;
+}
+#instr4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    position: relative;
+    left: 35px;
+    bottom: 168px;
+}
+#instr5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    position: relative;
+    left: 35px;
+    bottom: 208px;
+}
+#instr6{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    position: relative;
+    left: 35px;
+    bottom: 250px;
+}
+#user{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    position: relative;
+    left: 5px;
+    bottom: 8px;
+}
+#link1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;    
+    position: relative;
+    left: 15px;
+    top: 10px;
+}
+#link2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;    
+    position: relative;
+    left: 35px;
+    top: 20px;
+}
+#link3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;    
+    position: relative;
+    left: 35px;
+    top: 30px;
+}
+#link4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;    
+    position: relative;
+    left: 35px;
+    top: 40px;
+}
+#link5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;    
+    position: relative;
+    left: 35px;
+    top: 50px;
+}
+#link6{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;    
+    position: relative;
+    left: 35px;
+    top: 60px;
+}#link7{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;    
+    position: relative;
+    left: 35px;
+    top: 70px;
+}
